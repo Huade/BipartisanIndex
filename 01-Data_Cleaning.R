@@ -146,3 +146,31 @@ names(Senate_Max_list) <- paste("Max",names(Senate_Max_list),sep = "")
 names(Senate_Max_list)[2] <- "State"
 names(Senate_Min_list) <- paste("Min",names(Senate_Min_list),sep = "")
 names(Senate_Min_list)[2] <- "State"
+
+# ---------------------------------
+# Trend data
+# ---------------------------------
+
+Hv_all <- BP %>% 
+    filter(State %in% State_list) %>% 
+    filter(Chamber == "House") %>% 
+    select(-FirstName, -LastName)
+
+Sv_all <- BP %>% 
+    filter(State %in% State_list) %>% 
+    filter(Chamber == "Senate") %>% 
+    select(-FirstName, -LastName)
+
+Hv_trend <- Hv_all %>% 
+    group_by(Session) %>% 
+    summarise(YearMean = mean(Score))
+
+Hv_trend$Chamber <- "House"
+
+Sv_trend <- Sv_all %>% 
+    group_by(Session) %>% 
+    summarise(YearMean = mean(Score))
+
+Sv_trend$Chamber <- "Senate"
+
+Hv_Sv_tread <- rbind(Hv_trend, Sv_trend)
