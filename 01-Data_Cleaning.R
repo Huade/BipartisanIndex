@@ -129,6 +129,20 @@ Sv_113_Mean <- Sv_113  %>%
     group_by(State) %>% 
     summarise(MeanScore = mean(Score))
 
+# State Max/Min (Senate, 113)
+Sv_113_Max <- Sv_113  %>% 
+    group_by(State) %>% 
+    summarise(Score = max(Score))
 
+Sv_113_Min <- Sv_113  %>% 
+    group_by(State) %>% 
+    summarise(Score = min(Score))
 
+# Max/Min list (Senate, 113)
+Senate_Max_list <- inner_join(Sv_113, Sv_113_Max, by = c("Score", "State"))
+Senate_Min_list <- inner_join(Sv_113, Sv_113_Min, by = c("Score", "State"))
 
+names(Senate_Max_list) <- paste("Max",names(Senate_Max_list),sep = "")
+names(Senate_Max_list)[2] <- "State"
+names(Senate_Min_list) <- paste("Min",names(Senate_Min_list),sep = "")
+names(Senate_Min_list)[2] <- "State"

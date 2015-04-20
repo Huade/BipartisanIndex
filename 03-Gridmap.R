@@ -57,13 +57,19 @@ gridMap <- function(title, Subtitle){
 data_sc <- SelectSort(HvSv, state_abb = "abb", value = "AvgScore")
 gridMap(title = "Bipartisan Index, 113th Congress \n(Overall)", 
         Subtitle = "Darker color indicates higher bipartisan score")
+dev.copy(png,'Figures/Grid_map_overall.png')
+dev.off()
 
 # House
 data_sc <- SelectSort(HvSv, state_abb = "abb", value = "Hv")
 gridMap(title = "Bipartisan Index, 113th Congress \n(House)", 
         Subtitle = "Darker color indicates higher bipartisan score")
+dev.copy(png,'Figures/Grid_map_House.png')
+dev.off()
 
 # Senate
 data_sc <- SelectSort(HvSv, state_abb = "abb", value = "Sv")
 gridMap(title = "Bipartisan Index, 113th Congress \n(Senate)", 
         Subtitle = "Darker color indicates higher bipartisan score")
+dev.copy(png,'Figures/Grid_map_Senate.png')
+dev.off()
