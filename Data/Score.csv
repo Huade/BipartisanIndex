@@ -1,4 +1,4 @@
-LastName,First Name,State,ID,Party,Score,Session,Chamber
+LastName,FirstName,State,ID,Party,Score,Session,Chamber
 Akaka,Daniel,HI,7,D,-0.492533091,103,Senate
 Baucus,Max,MT,66,D,0.857589804,103,Senate
 Bennett,Robert,UT,1280,R,-0.689685996,103,Senate
@@ -581,7 +581,7 @@ Wyden,Ron,OR,1247,D,0.019572676,108,Senate
 Burr,Richard,NC,153,R,-1.067521276,109,Senate
 DeMint,Jim,SC,1605,R,-1.44312917,109,Senate
 Isakson,John,GA,1608,R,-0.763334689,109,Senate
-Menéndez,Robert,NJ,791,D,-1.24907221,109,Senate
+Men?ndez,Robert,NJ,791,D,-1.24907221,109,Senate
 Vitter,David,LA,1609,R,-0.507691365,109,Senate
 Akaka,Daniel,HI,7,D,-0.494813971,109,Senate
 Alexander,Lamar,TN,1695,R,-0.116499085,109,Senate
@@ -682,7 +682,7 @@ Burr,Richard,NC,153,R,-0.154643712,110,Senate
 Cardin,Benjamin,MD,174,D,0.395702008,110,Senate
 DeMint,Jim,SC,1605,R,-1.900002451,110,Senate
 Isakson,John,GA,1608,R,-0.194058663,110,Senate
-Menéndez,Robert,NJ,791,D,-0.939098082,110,Senate
+Men?ndez,Robert,NJ,791,D,-0.939098082,110,Senate
 Sanders,Bernard,VT,1010,D,-0.564707556,110,Senate
 Vitter,David,LA,1609,R,-0.745803556,110,Senate
 Wicker,Roger,MS,1226,R,-0.923281279,110,Senate
@@ -779,7 +779,7 @@ Burr,Richard,NC,153,R,0.28368393,111,Senate
 Cardin,Benjamin,MD,174,D,-0.55948738,111,Senate
 DeMint,Jim,SC,1605,R,-1.842908571,111,Senate
 Isakson,John,GA,1608,R,-0.031144179,111,Senate
-Menéndez,Robert,NJ,791,D,-1.177113187,111,Senate
+Men?ndez,Robert,NJ,791,D,-1.177113187,111,Senate
 Sanders,Bernard,VT,1010,D,-1.128869279,111,Senate
 Udall,Mark,CO,1595,D,-0.620611707,111,Senate
 Udall,Tom,NM,1567,D,-1.155746711,111,Senate
@@ -880,7 +880,7 @@ Cardin,Benjamin,MD,174,D,-0.27568509,112,Senate
 DeMint,Jim,SC,1605,R,-2.095637114,112,Senate
 Isakson,John,GA,1608,R,-0.038511698,112,Senate
 Kirk,Mark,IL,1647,R,0.627257824,112,Senate
-Menéndez,Robert,NJ,791,D,-1.09034122,112,Senate
+Men?ndez,Robert,NJ,791,D,-1.09034122,112,Senate
 Moran,Jerry,KS,1507,R,-0.569873265,112,Senate
 Portman,Robert,OH,924,R,0.185773216,112,Senate
 Sanders,Bernard,VT,1010,D,-1.71772761,112,Senate
@@ -980,7 +980,7 @@ Flake,Jeff,AZ,1633,R,-1.101511585,113,Senate
 Isakson,John,GA,1608,R,0.241905864,113,Senate
 Kirk,Mark,IL,1647,R,1.002269971,113,Senate
 Markey,Edward,MA,735,D,-1.032683852,113,Senate
-Menéndez,Robert,NJ,791,D,-0.328695358,113,Senate
+Men?ndez,Robert,NJ,791,D,-0.328695358,113,Senate
 Moran,Jerry,KS,1507,R,0.709322581,113,Senate
 Portman,Robert,OH,924,R,0.589715918,113,Senate
 Sanders,Bernard,VT,1010,D,-1.128388179,113,Senate
@@ -1118,7 +1118,7 @@ Gordon,Barton,TN,448,D,1.48038792,103,House
 Goss,Porter,FL,450,R,0.257765566,103,House
 Green,Raymond,TX,462,D,0.411713659,103,House
 Greenwood,James,PA,465,R,-0.342615387,103,House
-Gutiérrez,Luis,IL,478,D,0.062069831,103,House
+Guti?rrez,Luis,IL,478,D,0.062069831,103,House
 Hall,Ralph,TX,484,D,1.222045424,103,House
 Harman,Jane,CA,502,D,0.71386668,103,House
 Hastert,J.,IL,510,R,-0.167490054,103,House
@@ -1155,7 +1155,7 @@ McDermott,James,WA,766,D,0.114658156,103,House
 McInnis,Scott,CO,775,R,-0.814203561,103,House
 McNulty,Michael,NY,785,D,0.557381021,103,House
 Meehan,Martin,MA,788,D,-0.078614444,103,House
-Menéndez,Robert,NJ,791,D,0.562257804,103,House
+Men?ndez,Robert,NJ,791,D,0.562257804,103,House
 Miller,George,CA,808,D,-0.001112431,103,House
 Moran,James,VA,832,D,0.562432025,103,House
 Murtha,John,PA,844,D,0.192967668,103,House
@@ -1187,7 +1187,7 @@ Sabo,Martin,MN,1007,D,-0.206660919,103,House
 Sanders,Bernard,VT,1010,D,0.088854161,103,House
 Saxton,H.,NJ,1023,R,0.128656881,103,House
 Sensenbrenner,F.,WI,1041,R,-0.892913629,103,House
-Serrano,José,NY,1042,D,0.497439393,103,House
+Serrano,Jos?,NY,1042,D,0.497439393,103,House
 Shaw,E.,FL,1047,R,0.901750367,103,House
 Shays,Christopher,CT,1048,R,1.190655832,103,House
 Slaughter,Louise,NY,1069,D,0.383245099,103,House
@@ -1268,7 +1268,7 @@ Goodling,William,PA,447,R,0.478468389,103,House
 Kasich,John,OH,618,R,-0.672800538,103,House
 Klink,Ron,PA,639,D,0.446508706,103,House
 Lazio,Rick,NY,670,R,0.136616189,103,House
-Martínez,Matthew,CA,743,D,-0.267538816,103,House
+Mart?nez,Matthew,CA,743,D,-0.267538816,103,House
 McCollum,Bill,FL,761,R,-0.195519745,103,House
 Minge,David,MN,813,D,0.527353051,103,House
 Moakley,John,MA,820,D,0.198147092,103,House
@@ -1326,7 +1326,7 @@ Geren,Preston,TX,434,D,2.235857626,103,House
 Gibbons,Sam,FL,437,D,0.406750671,103,House
 Gingrich,Newton,GA,441,R,-1.163343189,103,House
 Glickman,Daniel,KS,443,D,0.737837161,103,House
-González,Henry,TX,445,D,0.349342656,103,House
+Gonz?lez,Henry,TX,445,D,0.349342656,103,House
 Grandy,Frederick,IA,455,R,0.715210461,103,House
 Gunderson,Steven,WI,476,R,0.372883731,103,House
 Hamburg,Daniel,CA,488,D,-0.737032269,103,House
@@ -1471,7 +1471,7 @@ Goodlatte,Robert,VA,446,R,-0.200045397,104,House
 Gordon,Barton,TN,448,D,1.472962805,104,House
 Goss,Porter,FL,450,R,0.060028548,104,House
 Greenwood,James,PA,465,R,0.355568645,104,House
-Gutiérrez,Luis,IL,478,D,-1.258480867,104,House
+Guti?rrez,Luis,IL,478,D,-1.258480867,104,House
 Hastings,Alcee,FL,511,D,-0.318268196,104,House
 Hastings,Doc,WA,512,R,-0.919842508,104,House
 Hayworth,John,AZ,520,R,-0.192095194,104,House
@@ -1510,7 +1510,7 @@ McInnis,Scott,CO,775,R,-0.469912634,104,House
 McKeon,Howard,CA,778,R,-0.678496008,104,House
 McNulty,Michael,NY,785,D,0.431391041,104,House
 Meehan,Martin,MA,788,D,0.264901156,104,House
-Menéndez,Robert,NJ,791,D,0.094757646,104,House
+Men?ndez,Robert,NJ,791,D,0.094757646,104,House
 Mica,John,FL,800,R,-0.214591747,104,House
 Miller,George,CA,808,D,-0.700781857,104,House
 Moran,James,VA,832,D,0.716821317,104,House
@@ -1544,7 +1544,7 @@ Royce,Edward,CA,998,R,-0.954189708,104,House
 Sanders,Bernard,VT,1010,D,-0.645249583,104,House
 Saxton,H.,NJ,1023,R,0.281488557,104,House
 Sensenbrenner,F.,WI,1041,R,-0.100819066,104,House
-Serrano,José,NY,1042,D,-0.380883197,104,House
+Serrano,Jos?,NY,1042,D,-0.380883197,104,House
 Shadegg,John,AZ,1043,R,-1.067754828,104,House
 Shaw,E.,FL,1047,R,0.504184637,104,House
 Shays,Christopher,CT,1048,R,1.709629313,104,House
@@ -1565,7 +1565,7 @@ Thornberry,William,TX,1155,R,-0.838367489,104,House
 Tiahrt,Todd,KS,1158,R,-0.0867786,104,House
 Towns,Edolphus,NY,1165,D,-0.18850944,104,House
 Upton,Frederick,MI,1177,R,0.6209883,104,House
-Velázquez,Nydia,NY,1184,D,-1.18319433,104,House
+Vel?zquez,Nydia,NY,1184,D,-1.18319433,104,House
 Visclosky,Peter,IN,1188,D,0.209411847,104,House
 Waters,Maxine,CA,1205,D,-1.46556579,104,House
 Waxman,Henry,CA,1209,D,-0.180300547,104,House
@@ -1637,7 +1637,7 @@ Goodling,William,PA,447,R,0.008069678,104,House
 Kasich,John,OH,618,R,-0.660946859,104,House
 Klink,Ron,PA,639,D,-0.545128604,104,House
 Lazio,Rick,NY,670,R,-0.078257382,104,House
-Martínez,Matthew,CA,743,D,-0.999801628,104,House
+Mart?nez,Matthew,CA,743,D,-0.999801628,104,House
 McCollum,Bill,FL,761,R,-0.310759313,104,House
 McIntosh,David,IN,776,R,-0.824789669,104,House
 Metcalf,Jack,WA,792,R,-0.990116426,104,House
@@ -1651,7 +1651,7 @@ Spence,Floyd,SC,1091,R,0.463105114,104,House
 Traficant,James,OH,1166,D,1.422958285,104,House
 Vento,Bruce,MN,1185,D,-0.337759741,104,House
 Wise,Robert,WV,1237,D,0.265135719,104,House
-Romero-Barceló,Carlos,PR,980,D,-0.41473588,104,House
+Romero-Barcel?,Carlos,PR,980,D,-0.41473588,104,House
 Baker,William,CA,45,R,-0.139405653,104,House
 Blute,Peter,MA,100,R,0.233549951,104,House
 Bono,Sonny,CA,110,R,-0.471852067,104,House
@@ -1677,7 +1677,7 @@ Franks,Gary,CT,410,R,-1.158507418,104,House
 Furse,Elizabeth,OR,423,D,0.261626016,104,House
 Geren,Preston,TX,434,D,0.899996512,104,House
 Gibbons,Sam,FL,437,D,-0.382461125,104,House
-González,Henry,TX,445,D,-1.420640306,104,House
+Gonz?lez,Henry,TX,445,D,-1.420640306,104,House
 Gunderson,Steven,WI,476,R,-0.066137414,104,House
 Hamilton,Lee,IN,489,D,0.997687168,104,House
 Hayes,James,LA,517,D,2.177731935,104,House
@@ -1832,7 +1832,7 @@ Graves,Samuel,MO,1656,R,-0.728560015,107,House
 Green,Raymond,TX,462,D,0.273303374,107,House
 Green,Mark,WI,1559,R,0.376424323,107,House
 Greenwood,James,PA,465,R,1.491437087,107,House
-Gutiérrez,Luis,IL,478,D,-0.626880636,107,House
+Guti?rrez,Luis,IL,478,D,-0.626880636,107,House
 Hall,Ralph,TX,484,D,2.13469447,107,House
 Harman,Jane,CA,502,D,0.020309259,107,House
 Hart,Melissa,PA,1666,R,0.790639789,107,House
@@ -1921,7 +1921,7 @@ McKeon,Howard,CA,778,R,0.103608988,107,House
 McNulty,Michael,NY,785,D,0.014741551,107,House
 Meehan,Martin,MA,788,D,-0.394399867,107,House
 Meeks,Gregory,NY,1506,D,0.271103392,107,House
-Menéndez,Robert,NJ,791,D,-0.080570204,107,House
+Men?ndez,Robert,NJ,791,D,-0.080570204,107,House
 Mica,John,FL,800,R,-0.008101653,107,House
 Millender-McDonald,Juanita,CA,805,D,-0.300565421,107,House
 Miller,Gary,CA,1584,R,0.490217685,107,House
@@ -1987,7 +1987,7 @@ Saxton,H.,NJ,1023,R,0.860354572,107,House
 Schakowsky,Janice,IL,1588,D,-0.86248318,107,House
 Schiff,Adam,CA,1635,D,0.116459595,107,House
 Sensenbrenner,F.,WI,1041,R,0.09792795,107,House
-Serrano,José,NY,1042,D,-1.008732746,107,House
+Serrano,Jos?,NY,1042,D,-1.008732746,107,House
 Sessions,Peter,TX,1525,R,-0.029108028,107,House
 Shadegg,John,AZ,1043,R,-0.598340751,107,House
 Shaw,E.,FL,1047,R,0.667296909,107,House
@@ -2025,7 +2025,7 @@ Turner,James,TX,1536,D,0.468687211,107,House
 Udall,Mark,CO,1595,D,0.519009293,107,House
 Udall,Tom,NM,1567,D,0.131287374,107,House
 Upton,Frederick,MI,1177,R,1.025274655,107,House
-Velázquez,Nydia,NY,1184,D,-0.495323772,107,House
+Vel?zquez,Nydia,NY,1184,D,-0.495323772,107,House
 Visclosky,Peter,IN,1188,D,0.254678958,107,House
 Vitter,David,LA,1609,R,-0.634223928,107,House
 Walden,Greg,OR,1596,R,0.177588836,107,House
@@ -2095,7 +2095,7 @@ Hutchinson,Asa,AR,1493,R,0.444217828,107,House
 Scarborough,Joe,FL,1025,R,0.31581726,107,House
 Traficant,James,OH,1166,D,0.238380689,107,House
 Abercrombie,Neil,HI,2,D,-0.50509022,108,House
-Acevedo-Vilá,Aníbal,PR,1679,D,-0.73730125,108,House
+Acevedo-Vil?,An?bal,PR,1679,D,-0.73730125,108,House
 Ackerman,Gary,NY,4,D,-0.227603643,108,House
 Aderholt,Robert,AL,1460,R,-0.363108155,108,House
 Allen,Thomas,ME,1461,D,-0.174842456,108,House
@@ -2227,7 +2227,7 @@ Green,Raymond,TX,462,D,-0.199562416,108,House
 Green,Mark,WI,1559,R,0.253274799,108,House
 Greenwood,James,PA,465,R,1.899660144,108,House
 Grijalva,Raul,AZ,1708,D,-0.304561511,108,House
-Gutiérrez,Luis,IL,478,D,-0.837929781,108,House
+Guti?rrez,Luis,IL,478,D,-0.837929781,108,House
 Hart,Melissa,PA,1666,R,0.153325035,108,House
 Hastings,Alcee,FL,511,D,-0.62622194,108,House
 Hastings,Doc,WA,512,R,-0.343805069,108,House
@@ -2237,7 +2237,7 @@ Hefley,Joel,CO,524,R,0.527491357,108,House
 Herger,Walter,CA,533,R,-0.608499356,108,House
 Hill,Baron,IN,1578,D,-0.033599565,108,House
 Hinchey,Maurice,NY,541,D,-0.208046894,108,House
-Hinojosa,Rubén,TX,1490,D,0.272489419,108,House
+Hinojosa,Rub?n,TX,1490,D,0.272489419,108,House
 Hobson,David,OH,545,R,0.116298781,108,House
 Hoeffel,Joseph,PA,1579,D,-0.260197418,108,House
 Hoekstra,Peter,MI,547,R,-0.530188618,108,House
@@ -2314,7 +2314,7 @@ McNulty,Michael,NY,785,D,-0.453708745,108,House
 Meehan,Martin,MA,788,D,-0.695366809,108,House
 Meek,Kendrick,FL,1715,D,0.409921795,108,House
 Meeks,Gregory,NY,1506,D,-0.752364125,108,House
-Menéndez,Robert,NJ,791,D,-0.206092708,108,House
+Men?ndez,Robert,NJ,791,D,-0.206092708,108,House
 Mica,John,FL,800,R,0.258516087,108,House
 Michaud,Michael,ME,1730,D,-0.183401877,108,House
 Millender-McDonald,Juanita,CA,805,D,-0.582241284,108,House
@@ -2382,7 +2382,7 @@ Rush,Bobby,IL,1003,D,0.173637807,108,House
 Ryan,Timothy,OH,1756,D,-0.252062468,108,House
 Ryan,Paul,WI,1560,R,-0.086370409,108,House
 Ryun,Jim,KS,1521,R,-0.083810282,108,House
-Sánchez,Linda,CA,1757,D,-0.655319394,108,House
+S?nchez,Linda,CA,1757,D,-0.655319394,108,House
 Sanchez,Loretta,CA,1522,D,-0.362107287,108,House
 Sanders,Bernard,VT,1010,D,-0.02055675,108,House
 Sandlin,Max,TX,1523,D,-0.448659924,108,House
@@ -2392,7 +2392,7 @@ Schiff,Adam,CA,1635,D,0.106472543,108,House
 Schrock,Edward,VA,1673,R,0.25909596,108,House
 Scott,David,GA,1722,D,0.747715132,108,House
 Sensenbrenner,F.,WI,1041,R,0.104975776,108,House
-Serrano,José,NY,1042,D,-1.031159829,108,House
+Serrano,Jos?,NY,1042,D,-1.031159829,108,House
 Sessions,Peter,TX,1525,R,-0.171582389,108,House
 Shadegg,John,AZ,1043,R,-1.464841743,108,House
 Shaw,E.,FL,1047,R,0.387715486,108,House
@@ -2588,7 +2588,7 @@ Graves,Samuel,MO,1656,R,-0.184004813,109,House
 Green,Raymond,TX,462,D,0.128485912,109,House
 Green,Mark,WI,1559,R,0.024998977,109,House
 Grijalva,Raul,AZ,1708,D,-0.646066256,109,House
-Gutiérrez,Luis,IL,478,D,-0.711614961,109,House
+Guti?rrez,Luis,IL,478,D,-0.711614961,109,House
 Gutknecht,Gilbert,MN,479,R,0.573526853,109,House
 Hall,Ralph,TX,484,R,0.235617941,109,House
 Harman,Jane,CA,502,D,-0.158131343,109,House
@@ -2603,7 +2603,7 @@ Hefley,Joel,CO,524,R,0.09731363,109,House
 Hensarling,Jeb,TX,1749,R,-0.844073815,109,House
 Herger,Walter,CA,533,R,-0.895752767,109,House
 Hinchey,Maurice,NY,541,D,-0.142160539,109,House
-Hinojosa,Rubén,TX,1490,D,0.633176802,109,House
+Hinojosa,Rub?n,TX,1490,D,0.633176802,109,House
 Hobson,David,OH,545,R,-0.235677463,109,House
 Hoekstra,Peter,MI,547,R,-0.136042841,109,House
 Holden,Tim,PA,550,D,0.53060002,109,House
@@ -2678,7 +2678,7 @@ McKeon,Howard,CA,778,R,-0.428604368,109,House
 McNulty,Michael,NY,785,D,-0.554881154,109,House
 Meehan,Martin,MA,788,D,-0.696412407,109,House
 Meek,Kendrick,FL,1715,D,0.207914118,109,House
-Menéndez,Robert,NJ,791,D,-0.216323603,109,House
+Men?ndez,Robert,NJ,791,D,-0.216323603,109,House
 Mica,John,FL,800,R,-0.928847635,109,House
 Michaud,Michael,ME,1730,D,0.107009564,109,House
 Millender-McDonald,Juanita,CA,805,D,-0.674376343,109,House
@@ -2744,7 +2744,7 @@ Rush,Bobby,IL,1003,D,-0.231385625,109,House
 Ryan,Timothy,OH,1756,D,-0.168394359,109,House
 Ryan,Paul,WI,1560,R,0.059040934,109,House
 Ryun,Jim,KS,1521,R,-0.680383718,109,House
-Sánchez,Linda,CA,1757,D,-0.94786619,109,House
+S?nchez,Linda,CA,1757,D,-0.94786619,109,House
 Sanchez,Loretta,CA,1522,D,-0.382648577,109,House
 Sanders,Bernard,VT,1010,D,-0.14600533,109,House
 Saxton,H.,NJ,1023,R,0.794064502,109,House
@@ -2752,7 +2752,7 @@ Schakowsky,Janice,IL,1588,D,-0.746204037,109,House
 Schiff,Adam,CA,1635,D,0.545516924,109,House
 Scott,David,GA,1722,D,0.189553074,109,House
 Sensenbrenner,F.,WI,1041,R,0.031002869,109,House
-Serrano,José,NY,1042,D,-1.575120452,109,House
+Serrano,Jos?,NY,1042,D,-1.575120452,109,House
 Sessions,Peter,TX,1525,R,-0.795254446,109,House
 Shadegg,John,AZ,1043,R,-1.020049431,109,House
 Shaw,E.,FL,1047,R,0.198497432,109,House
@@ -2791,7 +2791,7 @@ Udall,Mark,CO,1595,D,0.218547901,109,House
 Udall,Tom,NM,1567,D,0.380098851,109,House
 Upton,Frederick,MI,1177,R,0.719564437,109,House
 Van Hollen,Christopher,MD,1729,D,-0.108781025,109,House
-Velázquez,Nydia,NY,1184,D,-0.434795721,109,House
+Vel?zquez,Nydia,NY,1184,D,-0.434795721,109,House
 Visclosky,Peter,IN,1188,D,-0.070792929,109,House
 Walden,Greg,OR,1596,R,0.783552721,109,House
 Walsh,James,NY,1197,R,0.463685904,109,House
@@ -2847,7 +2847,7 @@ Drake,Thelma,VA,1808,R,-0.40794564,109,House
 McMorris Rodgers,Cathy,WA,1809,R,-0.411979577,109,House
 Reichert,Dave,WA,1810,R,0.500524851,109,House
 Moore,Gwen,WI,1811,D,-0.577015575,109,House
-Fortuño,Luis,PR,1800,R,-0.103137135,109,House
+Fortu?o,Luis,PR,1800,R,-0.103137135,109,House
 Shuster,William,PA,1681,R,0.023070506,109,House
 Abercrombie,Neil,HI,2,D,-0.413116202,110,House
 Ackerman,Gary,NY,4,D,-0.602796278,110,House
@@ -2961,7 +2961,7 @@ Granger,Kay,TX,1487,R,0.365261707,110,House
 Graves,Samuel,MO,1656,R,0.148328181,110,House
 Green,Raymond,TX,462,D,0.168517883,110,House
 Grijalva,Raul,AZ,1708,D,-0.79286037,110,House
-Gutiérrez,Luis,IL,478,D,-0.73564632,110,House
+Guti?rrez,Luis,IL,478,D,-0.73564632,110,House
 Hall,Ralph,TX,484,R,0.420937098,110,House
 Harman,Jane,CA,502,D,-0.623051101,110,House
 Hastings,Alcee,FL,511,D,-0.167438202,110,House
@@ -2971,7 +2971,7 @@ Hensarling,Jeb,TX,1749,R,-1.539178777,110,House
 Herger,Walter,CA,533,R,-0.573397591,110,House
 Hill,Baron,IN,1578,D,-0.197508337,110,House
 Hinchey,Maurice,NY,541,D,-0.335889815,110,House
-Hinojosa,Rubén,TX,1490,D,0.233323795,110,House
+Hinojosa,Rub?n,TX,1490,D,0.233323795,110,House
 Hoekstra,Peter,MI,547,R,-0.673031549,110,House
 Holden,Tim,PA,550,D,0.345046282,110,House
 Holt,Rush,NJ,1580,D,-0.403633568,110,House
@@ -3094,7 +3094,7 @@ Ruppersberger,C.A.,MD,1728,D,-0.325761489,110,House
 Rush,Bobby,IL,1003,D,-0.090511052,110,House
 Ryan,Timothy,OH,1756,D,-0.193473335,110,House
 Ryan,Paul,WI,1560,R,-0.222238355,110,House
-Sánchez,Linda,CA,1757,D,-0.158361378,110,House
+S?nchez,Linda,CA,1757,D,-0.158361378,110,House
 Sanchez,Loretta,CA,1522,D,-0.736417666,110,House
 Saxton,H.,NJ,1023,R,1.101808353,110,House
 Schakowsky,Janice,IL,1588,D,-0.130998827,110,House
@@ -3102,7 +3102,7 @@ Schiff,Adam,CA,1635,D,0.283905536,110,House
 Scott,David,GA,1722,D,0.501592253,110,House
 Scott,Robert,VA,1037,D,-0.395485453,110,House
 Sensenbrenner,F.,WI,1041,R,-0.544648946,110,House
-Serrano,José,NY,1042,D,-0.883753026,110,House
+Serrano,Jos?,NY,1042,D,-0.883753026,110,House
 Sessions,Peter,TX,1525,R,-0.587452966,110,House
 Shadegg,John,AZ,1043,R,-1.288400631,110,House
 Shays,Christopher,CT,1048,R,1.589090115,110,House
@@ -3135,7 +3135,7 @@ Udall,Mark,CO,1595,D,0.23289709,110,House
 Udall,Tom,NM,1567,D,-0.129776866,110,House
 Upton,Frederick,MI,1177,R,0.729895025,110,House
 Van Hollen,Christopher,MD,1729,D,0.096585875,110,House
-Velázquez,Nydia,NY,1184,D,-0.566943921,110,House
+Vel?zquez,Nydia,NY,1184,D,-0.566943921,110,House
 Visclosky,Peter,IN,1188,D,-0.068487607,110,House
 Walden,Greg,OR,1596,R,0.77483476,110,House
 Walsh,James,NY,1197,R,0.31579272,110,House
@@ -3193,7 +3193,7 @@ Drake,Thelma,VA,1808,R,-0.097114066,110,House
 McMorris Rodgers,Cathy,WA,1809,R,0.3629174,110,House
 Reichert,Dave,WA,1810,R,1.031166875,110,House
 Moore,Gwen,WI,1811,D,-0.833554379,110,House
-Fortuño,Luis,PR,1800,R,0.692786827,110,House
+Fortu?o,Luis,PR,1800,R,0.692786827,110,House
 Matsui,Doris,CA,1814,D,-0.380324004,110,House
 Shuster,William,PA,1681,R,0.445222504,110,House
 Schmidt,Jean,OH,1815,R,0.129398355,110,House
@@ -3345,7 +3345,7 @@ Granger,Kay,TX,1487,R,-0.350965171,111,House
 Graves,Samuel,MO,1656,R,0.203303667,111,House
 Green,Raymond,TX,462,D,0.027229069,111,House
 Grijalva,Raul,AZ,1708,D,-0.706081458,111,House
-Gutiérrez,Luis,IL,478,D,-0.991109294,111,House
+Guti?rrez,Luis,IL,478,D,-0.991109294,111,House
 Harman,Jane,CA,502,D,-0.322256585,111,House
 Hastings,Alcee,FL,511,D,-0.417592225,111,House
 Hastings,Doc,WA,512,R,-0.332871478,111,House
@@ -3353,7 +3353,7 @@ Hensarling,Jeb,TX,1749,R,-1.881923326,111,House
 Herger,Walter,CA,533,R,-0.331874509,111,House
 Hill,Baron,IN,1578,D,-0.184874486,111,House
 Hinchey,Maurice,NY,541,D,-0.338336202,111,House
-Hinojosa,Rubén,TX,1490,D,-0.541432161,111,House
+Hinojosa,Rub?n,TX,1490,D,-0.541432161,111,House
 Hoekstra,Peter,MI,547,R,-1.068549252,111,House
 Holden,Tim,PA,550,D,-0.026847486,111,House
 Holt,Rush,NJ,1580,D,-0.426292034,111,House
@@ -3449,13 +3449,13 @@ Ruppersberger,C.A.,MD,1728,D,-0.318074498,111,House
 Rush,Bobby,IL,1003,D,-0.826451371,111,House
 Ryan,Timothy,OH,1756,D,-0.40893684,111,House
 Ryan,Paul,WI,1560,R,-0.030078327,111,House
-Sánchez,Linda,CA,1757,D,-0.646263768,111,House
+S?nchez,Linda,CA,1757,D,-0.646263768,111,House
 Sanchez,Loretta,CA,1522,D,-0.099335624,111,House
 Schakowsky,Janice,IL,1588,D,-0.714102237,111,House
 Schiff,Adam,CA,1635,D,-0.08558123,111,House
 Scott,Robert,VA,1037,D,-0.283235987,111,House
 Sensenbrenner,F.,WI,1041,R,-0.545280601,111,House
-Serrano,José,NY,1042,D,-0.578590514,111,House
+Serrano,Jos?,NY,1042,D,-0.578590514,111,House
 Shadegg,John,AZ,1043,R,-0.969258314,111,House
 Sherman,Brad,CA,1526,D,0.097584003,111,House
 Simpson,Michael,ID,1590,R,0.490088149,111,House
@@ -3483,7 +3483,7 @@ Towns,Edolphus,NY,1165,D,0.011482483,111,House
 Turner,Michael,OH,1741,R,0.355220909,111,House
 Upton,Frederick,MI,1177,R,0.122141671,111,House
 Van Hollen,Christopher,MD,1729,D,-0.141928254,111,House
-Velázquez,Nydia,NY,1184,D,-0.593113884,111,House
+Vel?zquez,Nydia,NY,1184,D,-0.593113884,111,House
 Visclosky,Peter,IN,1188,D,-0.769996442,111,House
 Wamp,Zach,TN,1199,R,-0.19067046,111,House
 Waters,Maxine,CA,1205,D,-0.376923914,111,House
@@ -3586,7 +3586,7 @@ Tsongas,Niki,MA,1884,D,-0.643001718,111,House
 Wittman,Rob,VA,1886,R,0.025259662,111,House
 Latta,Robert,OH,1885,R,-1.070414605,111,House
 Foster,Bill,IL,1888,D,-0.287169736,111,House
-Carson,André,IN,1889,D,-0.727870545,111,House
+Carson,Andr?,IN,1889,D,-0.727870545,111,House
 Speier,Jackie,CA,1890,D,-0.723127502,111,House
 Scalise,Steve,LA,1892,R,-0.71919001,111,House
 Childers,Travis,MS,1893,D,0.180264559,111,House
@@ -3617,7 +3617,7 @@ Kosmas,Suzanne,FL,1917,D,0.018529768,111,House
 Kratovil,Frank,MD,1926,D,0.025272473,111,House
 Lee,Christopher,NY,1944,R,0.985242003,111,House
 Luetkemeyer,Blaine,MO,1931,R,-0.097625116,111,House
-Luján,Ben,NM,1939,D,-1.067436389,111,House
+Luj?n,Ben,NM,1939,D,-1.067436389,111,House
 Lummis,Cynthia,WY,1960,R,-0.071831793,111,House
 McClintock,Tom,CA,1908,R,-0.389589672,111,House
 McMahon,Michael,NY,1941,D,-0.148478921,111,House
@@ -3722,7 +3722,7 @@ Hastings,Doc,WA,512,R,-0.768215924,112,House
 Hensarling,Jeb,TX,1749,R,-1.325847435,112,House
 Herger,Walter,CA,533,R,-0.074882348,112,House
 Hinchey,Maurice,NY,541,D,-0.775638533,112,House
-Hinojosa,Rubén,TX,1490,D,-0.063766091,112,House
+Hinojosa,Rub?n,TX,1490,D,-0.063766091,112,House
 Holt,Rush,NJ,1580,D,-1.053502897,112,House
 Honda,Michael,CA,1634,D,-1.309664219,112,House
 Inslee,Jay,WA,584,D,0.178341813,112,House
@@ -3802,13 +3802,13 @@ Royce,Edward,CA,998,R,0.43056338,112,House
 Ruppersberger,C.A.,MD,1728,D,-0.119330369,112,House
 Rush,Bobby,IL,1003,D,-1.099070729,112,House
 Ryan,Timothy,OH,1756,D,-0.061148035,112,House
-Sánchez,Linda,CA,1757,D,-0.446515235,112,House
+S?nchez,Linda,CA,1757,D,-0.446515235,112,House
 Sanchez,Loretta,CA,1522,D,-0.030703024,112,House
 Schakowsky,Janice,IL,1588,D,-1.376080156,112,House
 Schiff,Adam,CA,1635,D,-0.31901909,112,House
 Scott,Robert,VA,1037,D,-0.985092671,112,House
 Sensenbrenner,F.,WI,1041,R,-0.273518135,112,House
-Serrano,José,NY,1042,D,-1.421455219,112,House
+Serrano,Jos?,NY,1042,D,-1.421455219,112,House
 Sessions,Peter,TX,1525,R,-0.40676414,112,House
 Sherman,Brad,CA,1526,D,0.251013329,112,House
 Shimkus,John,IL,1527,R,0.437115622,112,House
@@ -3830,7 +3830,7 @@ Towns,Edolphus,NY,1165,D,-0.352852207,112,House
 Turner,Michael,OH,1741,R,0.066848364,112,House
 Upton,Frederick,MI,1177,R,-0.415363929,112,House
 Van Hollen,Christopher,MD,1729,D,-0.47862761,112,House
-Velázquez,Nydia,NY,1184,D,-0.951905726,112,House
+Vel?zquez,Nydia,NY,1184,D,-0.951905726,112,House
 Walden,Greg,OR,1596,R,0.270901976,112,House
 Waters,Maxine,CA,1205,D,-1.523460988,112,House
 Watt,Melvin,NC,1207,D,-1.478853841,112,House
@@ -3910,7 +3910,7 @@ Richardson,Laura,CA,1883,D,-1.305072029,112,House
 Tsongas,Niki,MA,1884,D,-0.646214992,112,House
 Wittman,Rob,VA,1886,R,0.673608946,112,House
 Latta,Robert,OH,1885,R,-0.856328605,112,House
-Carson,André,IN,1889,D,-1.248121426,112,House
+Carson,Andr?,IN,1889,D,-1.248121426,112,House
 Speier,Jackie,CA,1890,D,-0.558644984,112,House
 Scalise,Steve,LA,1892,R,-0.646216317,112,House
 Edwards,Donna,MD,1894,D,-0.995155227,112,House
@@ -3928,7 +3928,7 @@ Jenkins,Lynn,KS,1921,R,-0.220630361,112,House
 Kissell,Larry,NC,1934,D,0.990415321,112,House
 Lance,Leonard,NJ,1936,R,1.008737565,112,House
 Luetkemeyer,Blaine,MO,1931,R,-0.642421314,112,House
-Luján,Ben,NM,1939,D,-0.457189719,112,House
+Luj?n,Ben,NM,1939,D,-0.457189719,112,House
 Lummis,Cynthia,WY,1960,R,-0.356162737,112,House
 McClintock,Tom,CA,1908,R,-0.78068057,112,House
 Olson,Pete,TX,1955,R,-0.480987365,112,House
@@ -3972,7 +3972,7 @@ Adams,Sandy,FL,2006,R,-0.613526452,112,House
 Rivera,David,FL,2007,R,-0.070189939,112,House
 Woodall,Rob,GA,2008,R,-1.284179459,112,House
 Scott,Austin,GA,2009,R,-1.568542907,112,House
-Labrador,Raúl,ID,2011,R,-1.217024303,112,House
+Labrador,Ra?l,ID,2011,R,-1.217024303,112,House
 Dold,Bob,IL,2013,R,0.281206657,112,House
 Kinzinger,Adam,IL,2014,R,-0.268163511,112,House
 Hultgren,Randy,IL,2015,R,-0.53781552,112,House
@@ -4088,11 +4088,11 @@ Goodlatte,Bob,VA,446,R,0.002217497,113,House
 Granger,Kay,TX,1487,R,0.213979496,113,House
 Graves,Sam,MO,1656,R,-0.349804632,113,House
 Green,Gene,TX,462,D,0.338478779,113,House
-Grijalva,Raúl,AZ,1708,D,-1.348005015,113,House
+Grijalva,Ra?l,AZ,1708,D,-1.348005015,113,House
 Hall,Ralph,TX,484,R,-0.325243165,113,House
 Hastings,Alcee,FL,511,D,-0.495310229,113,House
 Hastings,Doc,WA,512,R,-0.754434456,113,House
-Hinojosa,Rubén,TX,1490,D,-0.820026505,113,House
+Hinojosa,Rub?n,TX,1490,D,-0.820026505,113,House
 Holt,Rush,NJ,1580,D,-1.106032996,113,House
 Honda,Michael,CA,1634,D,-1.080557014,113,House
 Israel,Steve,NY,1663,D,-0.233993218,113,House
@@ -4157,13 +4157,13 @@ Roybal-Allard,Lucille,CA,997,D,-0.92846939,113,House
 Royce,Edward,CA,998,R,0.711509586,113,House
 Rush,Bobby,IL,1003,D,-0.813314762,113,House
 Ryan,Tim,OH,1756,D,0.713354906,113,House
-Sánchez,Linda,CA,1757,D,-0.224048102,113,House
+S?nchez,Linda,CA,1757,D,-0.224048102,113,House
 Sanchez,Loretta,CA,1522,D,-0.311553394,113,House
 Schakowsky,Janice,IL,1588,D,-1.09408671,113,House
 Schiff,Adam,CA,1635,D,-0.426223201,113,House
 Scott,Robert,VA,1037,D,-0.791254818,113,House
 Sensenbrenner,F.,WI,1041,R,0.570049828,113,House
-Serrano,José,NY,1042,D,-1.484602542,113,House
+Serrano,Jos?,NY,1042,D,-1.484602542,113,House
 Sessions,Pete,TX,1525,R,-0.666296536,113,House
 Simpson,Michael,ID,1590,R,-0.083717282,113,House
 Slaughter,Louise,NY,1069,D,-0.559373447,113,House
@@ -4179,7 +4179,7 @@ Tierney,John,MA,1535,D,-0.705349118,113,House
 Turner,Michael,OH,1741,R,0.171873412,113,House
 Upton,Fred,MI,1177,R,0.274196606,113,House
 Van Hollen,Chris,MD,1729,D,-0.423230544,113,House
-Velázquez,Nydia,NY,1184,D,-1.204463068,113,House
+Vel?zquez,Nydia,NY,1184,D,-1.204463068,113,House
 Walden,Greg,OR,1596,R,-0.212397586,113,House
 Waters,Maxine,CA,1205,D,-1.318402796,113,House
 Watt,Melvin,,1207,D,-1.504811604,113,House
@@ -4247,7 +4247,7 @@ Tsongas,Niki,MA,1884,D,-0.868639485,113,House
 Wittman,Robert,VA,1886,R,-0.074002054,113,House
 Latta,Robert,OH,1885,R,0.054385301,113,House
 Foster,Bill,IL,1888,D,-0.266996433,113,House
-Carson,André,IN,1889,D,-0.742955004,113,House
+Carson,Andr?,IN,1889,D,-0.742955004,113,House
 Speier,Jackie,CA,1890,D,-0.466547683,113,House
 Scalise,Steve,LA,1892,R,-1.110516255,113,House
 Edwards,Donna,MD,1894,D,-1.660057381,113,House
@@ -4265,7 +4265,7 @@ Jenkins,Lynn,KS,1921,R,-0.13181783,113,House
 Kirkpatrick,Ann,AZ,1907,D,0.27807307,113,House
 Lance,Leonard,NJ,1936,R,0.596942924,113,House
 Luetkemeyer,Blaine,MO,1931,R,-0.273657754,113,House
-Luján,Ben,NM,1939,D,0.248517866,113,House
+Luj?n,Ben,NM,1939,D,0.248517866,113,House
 Lummis,Cynthia,WY,1960,R,-0.37373411,113,House
 McClintock,Tom,CA,1908,R,-1.070274464,113,House
 Maffei,Daniel,NY,1943,D,-0.02293997,113,House
@@ -4308,7 +4308,7 @@ Ross,Dennis,FL,2003,R,-0.612165977,113,House
 Wilson,Frederica,FL,2004,D,-0.828269644,113,House
 Scott,Austin,GA,2009,R,-1.116115476,113,House
 Hanabusa,Colleen,HI,2010,D,-0.565751995,113,House
-Labrador,Raúl,ID,2011,R,-0.525019987,113,House
+Labrador,Ra?l,ID,2011,R,-0.525019987,113,House
 Kinzinger,Adam,IL,2014,R,0.778003036,113,House
 Hultgren,Randy,IL,2015,R,0.106068805,113,House
 Rokita,Todd,IN,2017,R,-0.818425471,113,House
@@ -4369,7 +4369,7 @@ Cook,Paul,CA,2103,R,0.873682695,113,House
 Swalwell,Eric,CA,2104,D,0.013679835,113,House
 Valadao,David,CA,2105,R,0.367472607,113,House
 Brownley,Julia,CA,2106,D,-0.256977485,113,House
-Cárdenas,Tony,CA,2107,D,-0.498330664,113,House
+C?rdenas,Tony,CA,2107,D,-0.498330664,113,House
 Negrete McLeod,Gloria,CA,2108,D,-0.731872805,113,House
 Ruiz,Raul,CA,2109,D,0.01492296,113,House
 Takano,Mark,CA,2110,D,-0.824154806,113,House
